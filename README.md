@@ -7,7 +7,7 @@ Software Engineer Student
 * 🌍  I'm based in San Diego, CA
 * ✉️  You can contact me at [ellyzareyesmain@gmail.com](mailto:ellyzareyesmain@gmail.com)
 * 🧠  I'm learning JS, HTML, CSS, React, TypeScript
-* ⚡  Fun fact: I love all things fitness, kickboxing, travel, & wellness!
+* ⚡  Fun fact: I love all things fitness, travel, health & wellness!
 
 ### Skills
 
